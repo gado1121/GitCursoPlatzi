@@ -1,3 +1,3 @@
-# GitCursoPlatzi2
+# GitCursoPlatzi
 Practicas Imprenta
 Estos son cambios para hitbut
