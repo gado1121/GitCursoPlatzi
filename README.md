@@ -1,2 +1,2 @@
-# GitCursoPlatzi2
+# GitCursoPlatzi
 Practicas Imprenta
